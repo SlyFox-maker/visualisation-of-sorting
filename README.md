@@ -4,7 +4,7 @@ I was inspired by numerous videos on youtube visualizing array sorting.
 Idea of this programm was in that, what you can make any script in python, upload that in my programm and test that! Obviusly for make it for you must do some things in your python script.
 
 
-#Manual
+# Manual
 
 For make your script work - you must write all history of actions in your array sorting. For that you must use arrHistory = [array, i, x](examples in folder of dones script).
 
