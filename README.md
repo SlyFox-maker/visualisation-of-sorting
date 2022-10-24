@@ -12,3 +12,15 @@ For make your script work - you must write all history of actions in your array 
 - i - first position of element for replace second element
 - x - second position of element
 
+# adding Scripts
+
+Well, when you made a script - you must save that in folder "algorithms". After that you must enter to the programm and push in comboBox button "Update...". After all this action you can see your script in the same ComboBox.
+
+# Use
+
+And the things that easy for understant without manual, but I will write that anyways. 
+
+- numericUpDown1 - this element for install wigth of your array.
+- numericUpDown2 - this element for install delay of sorting.
+- button "start" - just for start process.
+
