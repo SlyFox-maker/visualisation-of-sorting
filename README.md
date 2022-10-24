@@ -22,5 +22,7 @@ And the things that easy for understant without manual, but I will write that an
 
 - numericUpDown1 - this element for install wigth of your array.
 - numericUpDown2 - this element for install delay of sorting.
-- button "start" - just for start process.
+- button "start" - just for start process. It's desable when you don't painted array.
+- button "draw Array" - for make and paint your new array.
+
 
