@@ -10,10 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="bin\Debug\net6.0-windows\preview.png" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="DynamicLanguageRuntime" Version="1.3.2" />
     <PackageReference Include="IronPython" Version="2.7.12" />
     <PackageReference Include="MedallionRandom" Version="1.1.0" />
@@ -35,6 +31,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net6.0-windows\" />
   </ItemGroup>
 
 </Project>
