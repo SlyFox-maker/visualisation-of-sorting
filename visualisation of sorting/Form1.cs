@@ -33,7 +33,6 @@ namespace visualisation_of_sorting
             algTP.SetToolTip(numericUpDown1, "Delay");
 
             pictureBox1.Image = Properties.Resources.preview as Bitmap;
-
             readFiles();
         }
         private void readFiles()

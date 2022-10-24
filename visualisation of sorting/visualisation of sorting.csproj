@@ -10,6 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="check.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="DynamicLanguageRuntime" Version="1.3.2" />
     <PackageReference Include="IronPython" Version="2.7.12" />
     <PackageReference Include="MedallionRandom" Version="1.1.0" />
@@ -35,6 +39,10 @@
 
   <ItemGroup>
     <Folder Include="bin\Debug\net6.0-windows\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="check.wav" />
   </ItemGroup>
 
 </Project>
