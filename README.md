@@ -1,6 +1,6 @@
 # visualisation-of-sorting
 Hi every one! This will be my first repository. You are welcome if you see some not good stafs in my code. I'm will accept all criticism from you(criticism, not insults).
-I was inspired by numerous [videos](https://youtu.be/i5VIOPaU6Xw "random example") on youtube visualizing array sorting. 
+I was inspired by numerous [videos]([https://youtu.be/i5VIOPaU6Xw](https://youtu.be/kPRA0W1kECg) "random example") on youtube visualizing array sorting. 
 Idea of this programm was in that, what you can make any script in python, upload that in my programm and test that! Obviously for make it for you must do some things in your python script.
 
 
